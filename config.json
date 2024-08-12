@@ -1,0 +1,9 @@
+{
+    "logs_path":"C:/temp/WcProd_ApacheLogs/Sep/",
+    "db_host":"inban5cd334f6bf.corp.skf.net",
+    "db_port":1433,
+    "db_name":"wc_monitor",
+    "db_user":"wcmonitor",
+    "db_password":"Dbadmin_1",
+    "db_table":""
+}
